@@ -11,7 +11,7 @@ import traceback
 from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestClassifier
 import joblib
-
+//teste gitt
 print("--- SISTEMA DE PROTEÇÃO: LOCALIZADOR E CLASSIFICADOR DE FALTAS (WAVELET DB4) ---")
 
 # ================= SELEÇÃO DO ARQUIVO =================
